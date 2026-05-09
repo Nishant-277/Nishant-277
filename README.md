@@ -1,4 +1,6 @@
-<p align="left">Hi 👋! My name is Nishant and I'm a Student at World College Of Technology & Management, Gurgram</p>
+<p align="left">Hi 👋! My name is Nishant I'm a Student at World College Of Technology & Management, Gurgram</p>
+<p align="left">🚀 Data Analyst | UI/UX Designer</p>
+<p align="left">🎓 Student at World College Of Technology & Management, Gurugram 📊 Passionate about Data Analytics, Dashboard Design, UI/UX, and Full Stack Development</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
 
 ###
