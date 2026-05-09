@@ -1,11 +1,14 @@
-<p align="left">Hi 👋! My name is Nishant I'm a Student at World College Of Technology & Management, Gurgram</p>
+<p align="left">Hi 👋! My name is Nishant </p>
 <p align="left">🚀 Data Analyst | UI/UX Designer</p>
-<p align="left">🎓 Student at World College Of Technology & Management, Gurugram 📊 Passionate about Data Analytics, Dashboard Design, UI/UX, and Full Stack Development</p>
+<p align="left"> 🎓 Completed BCA from World College Of Technology & Management, Gurugram</p>
+<p align="left"> 📊 Passionate about Data Analytics, Dashboard Design, UI/UX, and Full Stack Development</p>
+<p align="left">🎨 Creating clean and user-friendly digital experiences</p>
+<p align="left">📈 Skilled in transforming raw data into meaningful insights</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
 
 ###
 
-<p align="left">🔭 I’m currently working on Web Development<br>🌱 I’m currently learning JavaScript<br>📫 Reach me through<button> <a href="mailto:nishantsingh2772003@gmail.com">Mail</a></button><br>🤔 I’m looking for help with Backend</p>
+<p align="left">🔭 I’m currently working on Data Analytics Projects<br>📊 Exploring SQL, Excel, Power BI & Data Visualization<br>🎨 Interested in UI/UX Design & Modern Interfaces<br>🌱 I’m currently learning JavaScript<br>📫 Reach me through<button> <a href="mailto:nishantsingh2772003@gmail.com">Mail</a></button><br>🤔 I’m looking for help with Backend</p>
 
 ###
 
