@@ -4,13 +4,13 @@
 
 ### 🚀 Aspiring Business Analyst | UI/UX & Product Design Graduate | Data Storytelling Enthusiast
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
-
 </div>
 
 ---
 
 # 💫 About Me
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
 
 ✨ Passionate about transforming raw data into actionable business insights.  
 🎓 Recently completed my Bachlor's in Computer Application from **World College of Technologies and Managment**.  
