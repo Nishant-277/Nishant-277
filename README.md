@@ -69,26 +69,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="(https://www.linkedin.com/in/nishant-singh-44a56a262/)" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
-
----
-
 # ✨ Quote I Follow
 
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming
