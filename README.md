@@ -2,6 +2,10 @@
 
 <div align="center">
 
+---
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
+---
+
 ### 🚀 Aspiring Business Analyst | UI/UX & Product Design Graduate | Data Storytelling Enthusiast
 
 </div>
@@ -16,10 +20,6 @@
 💼 Worked with organizations like **Pearl Organisation**, **Arunila Mines & Chemicals** and **Aetom Engineering** on real-world analytical projects.  
 🤖 Exploring the intersection of Business Analytics, AI, and Product Design to create impactful and user-focused data solutions. 
 📈 Strong focus on solving business problems using analytics, automation, and visualization.  
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
----
 
 # 🔭 Current Interests
 
