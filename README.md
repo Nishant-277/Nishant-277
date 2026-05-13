@@ -1,81 +1,103 @@
-<p align="left">Hi 👋! My name is Nishant </p>
-<p align="left">🚀 Data Analyst | UI/UX Designer</p>
-<p align="left"> 🎓 Completed BCA from World College Of Technology & Management, Gurugram</p>
-<p align="left"> 📊 Passionate about Data Analytics, Dashboard Design, UI/UX, and Full Stack Development</p>
-<p align="left">🎨 Creating clean and user-friendly digital experiences</p>
-<p align="left">📈 Skilled in transforming raw data into meaningful insights</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
-
-###
-
-<p align="left">🔭 I’m currently working on Data Analytics Projects<br>📊 Exploring SQL, Excel, Power BI & Data Visualization<br>🎨 Interested in UI/UX Design & Modern Interfaces<br>🌱 I’m currently learning JavaScript<br>📫 Reach me through<button> <a href="mailto:nishantsingh2772003@gmail.com">Mail</a></button><br>🤔 I’m looking for help with Backend</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
-
-
-
-###
+# Hi, there! I'm Nishant Singh 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant-277&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant-277&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Nishant-277&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+### 🚀 Aspiring Business Analyst | UI/UX & Product Design Graduate | Data Storytelling Enthusiast
+
 </div>
 
-###
+---
 
+# 💫 About Me
 
-###
+✨ Passionate about transforming raw data into actionable business insights.  
+🎓 Recently completed my Bachlor's in Computer Application from **World College of Technologies and Managment**.  
+📊 Experienced in data analytics, predictive modeling, dashboard development, and big data technologies.  
+💼 Worked with organizations like **Pearl Organisation**, **Arunila Mines & Chemicals** and **Aetom Engineering** on real-world analytical projects.  
+🤖 Exploring the intersection of Business Analytics, AI, and Product Design to create impactful and user-focused data solutions. 
+📈 Strong focus on solving business problems using analytics, automation, and visualization.  
+
+---
+
+# 🔭 Current Interests
+
+- 🤖 Machine Learning & Artificial Intelligence  
+- 📊 Data Analytics & Business Intelligence  
+- ☁️ Big Data & Cloud Technologies   
+- 🏥 Healthcare Analytics  
+- 💳 FinTech Analytics
+- 📈 Predictive Modeling & Forecasting  
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,css3,html5,mysql" />
+</p>
+
+## 📊 Data Analytics & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+</p>
+
+## 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Scikit-Learn  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- NLTK  
+- Keras  
+
+---  
+
+# 📌 Experience Highlights
+
+## 💼 Aetom  Engineering
+- Analyzed compressor sales and spare parts data to identify business trends and operational performance.
+- Improved reporting efficiency by cleaning and organizing large datasets using Excel and Power BI.
+- Built interactive dashboards and analytical reports to support business decisions and profitability growth.
+
+## 💼 Pearl Organisation
+- Designed UI/UX solutions for mobile applications using user-centered design principles.
+- Created wireframes, prototypes, and interactive designs to improve user experience and application flow.
+- Collaborated with clients and teams to present design ideas, gather feedback, and manage project requirements effectively.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="(https://www.linkedin.com/in/nishant-singh-44a56a262/)" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# ✨ Quote I Follow
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
