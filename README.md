@@ -2,9 +2,7 @@
 
 <div align="center">
 
----
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
----
 
 ### 🚀 Aspiring Business Analyst | UI/UX & Product Design Graduate | Data Storytelling Enthusiast
 
