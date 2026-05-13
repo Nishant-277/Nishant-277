@@ -18,6 +18,8 @@
 📈 Strong focus on solving business problems using analytics, automation, and visualization.  
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant-277&label=Profile%20views&color=6600ff&style=flat" alt="Nishant-277" /> </p>
+---
 
 # 🔭 Current Interests
 
