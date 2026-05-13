@@ -34,7 +34,7 @@
 
 ## 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,css3,html5,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ## 📊 Data Analytics & Visualization
@@ -44,9 +44,6 @@
 </p>
 
 ## 🤖 Machine Learning & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
 - Scikit-Learn  
 - Pandas  
