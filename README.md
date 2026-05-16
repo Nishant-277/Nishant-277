@@ -54,20 +54,6 @@
 
 ---  
 
-# 📌 Experience Highlights
-
-## 💼 Aetom  Engineering
-- Analyzed compressor sales and spare parts data to identify business trends and operational performance.
-- Improved reporting efficiency by cleaning and organizing large datasets using Excel and Power BI.
-- Built interactive dashboards and analytical reports to support business decisions and profitability growth.
-
-## 💼 Pearl Organisation
-- Designed UI/UX solutions for mobile applications using user-centered design principles.
-- Created wireframes, prototypes, and interactive designs to improve user experience and application flow.
-- Collaborated with clients and teams to present design ideas, gather feedback, and manage project requirements effectively.
-
----
-
 # ✨ Quote I Follow
 
 > “The goal is to turn data into information, and information into insight.” — Carly Fiorina
